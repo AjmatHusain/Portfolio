@@ -1,0 +1,4 @@
+Model: Llama 2 7B
+Method: QLoRA (4-bit quantization)
+Target: Medical Summarization
+Final Eval Loss: 0.421
